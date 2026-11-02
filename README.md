@@ -152,8 +152,12 @@ Before using this app with real users:
 3. Implement password-reset email delivery and appropriate anti-enumeration/rate-limiting behavior on the backend.
 4. Decide how user accounts and authentication sessions should persist; the current mock account store is process-local.
 5. Add environment-specific configuration, secure error handling, and integration tests for the real service.
-<img width="720" height="1600" alt="Screenshot_20261102-201954" src="https://github.com/user-attachments/assets/8e713085-83c0-4e88-87c5-0d4d695b3894" /><img width="720" height="1600" alt="Screenshot_20261102-201918" src="https://github.com/user-attachments/assets/26d0abc9-741a-4d78-b3b9-d0e24e99732f" />
-<img width="720" height="1600" alt="Screenshot_20261102-201924" src="https://github.com/user-attachments/assets/2ff3d408-1e7e-455f-bfcf-ad05bedc099f" />
+
+<p align="center">
+  <img width="30%" alt="Screenshot 1" src="https://github.com/user-attachments/assets/8e713085-83c0-4e88-87c5-0d4d695b3894" />
+  <img width="30%" alt="Screenshot 2" src="https://github.com/user-attachments/assets/26d0abc9-741a-4d78-b3b9-d0e24e99732f" />
+  <img width="30%" alt="Screenshot 3" src="https://github.com/user-attachments/assets/2ff3d408-1e7e-455f-bfcf-ad05bedc099f" />
+</p>
 
 
 
